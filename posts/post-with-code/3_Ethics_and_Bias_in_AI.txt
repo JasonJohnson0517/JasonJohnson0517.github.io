@@ -1,0 +1,73 @@
+3 - Ethics and Bias in AI
+
+------------------------------------------------------------
+Introduction
+------------------------------------------------------------
+Artificial Intelligence (AI) has rapidly become a foundational technology in
+industries such as healthcare, finance, education, law enforcement, and
+transportation. While AI systems offer enormous benefits, they also carry
+significant risks — especially when decisions affect people’s lives. Issues of
+bias, fairness, and ethics are central to how AI should be designed, deployed,
+and governed. This paper explores how bias enters AI systems, why fairness is
+difficult to achieve, and what ethical principles guide responsible AI use.
+
+------------------------------------------------------------
+What Is Bias in AI?
+------------------------------------------------------------
+Bias in AI refers to systematic and unfair discrimination against individuals or
+groups. AI bias typically emerges in one of three main ways:
+
+1. Data Bias
+   - AI models learn from historical data. If the data reflects past inequality,
+     the model will reproduce those patterns.
+
+2. Algorithmic Bias
+   - Even with balanced data, the mathematical structure of a model can amplify
+     disparities.
+
+3. Human/Design Bias
+   - Developers make choices about what features to include, what data to ignore,
+     and how to define “success,” which can embed subjective values.
+
+------------------------------------------------------------
+Why Fairness Is Hard
+------------------------------------------------------------
+Fairness in AI is not a single concept. Different definitions of fairness often
+conflict, making it impossible to satisfy all of them simultaneously. Thus,
+ethical choices must be made about which fairness criteria matter most for a
+context.
+
+------------------------------------------------------------
+Real-World Examples of AI Bias
+------------------------------------------------------------
+- COMPAS criminal justice tool producing higher false positives for Black defendants.
+- Amazon hiring algorithm downgrading resumes with references to women's activities.
+- Healthcare prediction models mistakenly prioritizing patients based on spending.
+
+------------------------------------------------------------
+Ethics Principles in AI
+------------------------------------------------------------
+Responsible AI involves:
+- Transparency
+- Accountability
+- Privacy
+- Fairness and non-discrimination
+- Human oversight
+- Inclusiveness
+
+------------------------------------------------------------
+Mitigating Bias
+------------------------------------------------------------
+Strategies include:
+- Balanced datasets
+- Fairness-aware preprocessing
+- Algorithmic debiasing
+- Post-processing corrections
+- Continuous monitoring
+
+------------------------------------------------------------
+Conclusion
+------------------------------------------------------------
+AI offers tremendous opportunities but poses risks when bias is left unchecked.
+Ethical AI development requires fairness, accountability, transparency, and
+ongoing evaluation to ensure technology benefits society.
